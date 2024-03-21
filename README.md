@@ -1,7 +1,7 @@
 # Ard_ros_robot
 
 <div align="center">
-  <img src="docs/push_recovery.gif" width="130" height="70" /> 
+  <img src="images/Robot.png" width="130" height="70" /> 
 </div>
 
 ## Features
