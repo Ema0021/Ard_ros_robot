@@ -1,7 +1,7 @@
 # Ard_ros_robot
 
 <div align="center">
-  <img src="images/Robot.png" /> 
+  <img src="images/Robot.png"  width="400" height="500" /> 
 </div>
 
 ## Features
