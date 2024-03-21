@@ -16,7 +16,7 @@ Three types of control are presented:
 
 |  Object Avoid |  Line Follow | ROS control  | 
 |:-:|:-:|:-:|
-|  <img src="Doc/Object_avoid.gif" width="130" height="70" /> |   <img src="docs/line_follow.gif" width="130" height="70" />  | <img src="docs/ROS_control.gif" width="130" height="70" />  | 
+|  <img src="Doc/Object_avoid.gif" width="130" height="70" /> |   <img src="Doc/line_follow.gif" width="130" height="70" />  | <img src="Doc/ROS_control.gif" width="130" height="70" />  | 
 
 </div>
 
